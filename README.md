@@ -26,10 +26,10 @@
   <a href="https://github.com/sahilkumar21072004-a11y">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
   </a>
-  <a href="https://instagram.com/YOUR_ID">
+  <a href="https://instagram.com/i_sahil_kumar">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram">
   </a>
-  <a href="#">
+  <a href="https://www.linkedin.com/in/sahil-kumar-5145b7305">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
 </p>
